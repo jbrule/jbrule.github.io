@@ -9,8 +9,8 @@ padding-left:3px !important;
 }
 .vjs-playlist .vjs-playlist-thumbnail{
 /*display:none;*/
-  width:80 !important;
-  height:50 !important;
+  width:80px !important;
+  height:50px !important;
 }
 .vjs-playlist .vjs-playlist-name{
 font-size:70%;
