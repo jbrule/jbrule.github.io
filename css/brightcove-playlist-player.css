@@ -12,4 +12,10 @@ font-size:70%;
 }
 .vjs-playlist .vjs-playlist-description{
 font-size:70%;
+white-space:pre-line;
+height: 60px;
+line-height: 14px;
+}
+.vjs-mouse.vjs-playlist .vjs-playlist-item{
+height:75px;
 }
