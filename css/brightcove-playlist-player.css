@@ -37,4 +37,5 @@ font-size: 10px !important;
 .vjs-playlist .vjs-playlist-thumbnail:before {
     width: 80px !important;
     height: 50px !important;
+    line-height:56px !important;
 }
