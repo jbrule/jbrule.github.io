@@ -1,3 +1,15 @@
+.bc-iframe{
+width:60%;
+}
+.bc-iframe .vjs-playlist{
+width:40%;
+}
 .vjs-playlist .vjs-playlist-thumbnail{
 display:none;
+}
+.vjs-playlist .vjs-playlist-name{
+font-size:70%;
+}
+.vjs-playlist .vjs-playlist-description{
+font-size:70%;
 }
