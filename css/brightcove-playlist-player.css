@@ -12,8 +12,8 @@ padding-left:3px !important;
 }
 .vjs-playlist .vjs-playlist-thumbnail{
 /*display:none;*/
-  width:54px !important;
-  height:36px !important;
+  width:80px !important;
+  height:50px !important;
 }
 .vjs-playlist .vjs-playlist-name{
 font-size:70%;
@@ -32,4 +32,8 @@ line-height: 14px !important;*/
 }
 .vjs-playlist time{
 font-size: 10px !important;
+}
+.vjs-playlist .vjs-selected .vjs-playlist-thumbnail:before {
+    height: 50px !important;
+    width: 80px !important;
 }
