@@ -43,9 +43,9 @@ font-size: 10px !important;
 .vjs-mouse.vjs-playlist .vjs-playlist-item:focus .vjs-playlist-thumbnail:before {
   border-radius: 5px;
   font-family: 'VideoJS';
-  height: 15px !important;
-  left: 3px !important;
-  line-height: 14px !important;
-  top: 3px !important;
-  width: 20px !important;
+  height: 16px !important;
+  left: 29px !important;
+  line-height: 16px !important;
+  top: 17px !important;
+  width: 22px !important;
 }
