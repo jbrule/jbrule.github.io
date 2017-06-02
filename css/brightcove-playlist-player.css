@@ -4,6 +4,9 @@
 .bc-iframe .vjs-playlist{
 /*width:40%;*/
 }
+.vjs-playlist{
+padding-left:3px !important;
+}
 .vjs-playlist .vjs-playlist-thumbnail{
 /*display:none;*/
   width:80 !important;
