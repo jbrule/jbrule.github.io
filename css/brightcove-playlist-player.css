@@ -34,7 +34,7 @@ line-height: 14px !important;*/
 .vjs-playlist time{
 font-size: 10px !important;
 }
-.vjs-playlist .vjs-selected .vjs-playlist-thumbnail:before {
+.vjs-playlist .vjs-playlist-thumbnail:before {
     width: 80px !important;
     height: 50px !important;
 }
