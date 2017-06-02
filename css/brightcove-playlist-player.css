@@ -10,13 +10,13 @@ display:none;
 .vjs-playlist .vjs-playlist-name{
 font-size:70%;
 }
-.vjs-mouse.vjs-playlist .vjs-playlist-description{
+.vjs-playlist .vjs-playlist-description{
 font-size:70%;
 white-space:pre-line !important;
 height: 60px !important;
 line-height: 14px !important;
 }
 
-.vjs-mouse.vjs-playlist .vjs-playlist-item{
+.vjs-playlist .vjs-playlist-item{
 height:75px !important;
 }
