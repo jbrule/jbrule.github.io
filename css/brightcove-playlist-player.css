@@ -5,8 +5,7 @@
 /*width:40%;*/
 }
 .vjs-playlist cite {
-  height:auto;
-  line-height: normal;
+
 }
 .vjs-playlist{
 padding-left:3px !important;
@@ -19,6 +18,8 @@ padding-left:3px !important;
 .vjs-playlist .vjs-playlist-name{
 font-size:70%;
 white-space:pre-line !important;
+height:auto !important;
+line-height: normal !important;
 }
 .vjs-playlist .vjs-playlist-description{
   display:none !important;
