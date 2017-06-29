@@ -4,3 +4,12 @@
 .bc-iframe .vjs-playlist-show-hide button:hover{
   background-color:#0046AD !important;
 }
+
+.vjs-playlist .vjs-playlist-name{
+    line-height: 18px  !important;
+    font-size: 70%  !important;
+}
+
+.vjs-playlist .vjs-playlist-name{
+  max-height: 4em !important;
+}
