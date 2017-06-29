@@ -2,5 +2,5 @@
   background-color:none;
 }
 .bc-iframe .vjs-playlist-show-hide button:hover{
-  background-color:#0046AD;
+  background-color:#0046AD !important;
 }
