@@ -50,3 +50,6 @@ font-size: 10px !important;
   top: 17px !important;
   width: 22px !important;
 }
+.vjs-playlist .vjs-selected, .vjs-playlist.vjs-mouse .vjs-selected{
+  background-color:none;
+}
