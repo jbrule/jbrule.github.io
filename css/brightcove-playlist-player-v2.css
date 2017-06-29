@@ -1,3 +1,6 @@
 .vjs-playlist .vjs-selected, .vjs-playlist.vjs-mouse .vjs-selected{
   background-color:none;
 }
+.bc-iframe .vjs-playlist-show-hide button:hover{
+  background-color:#0046AD;
+}
