@@ -15,6 +15,9 @@
          itemTitle,
          itemInnerDiv,
          playlistWrapper;
+   
+   console.log(myPlayer);
+   window.myPlayer = myPlayer;
 
      myPlayer.one('loadstart', function() {
          playlistWrapper = document.createElement('div');
